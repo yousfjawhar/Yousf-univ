@@ -37,9 +37,9 @@
     <key>PayloadDescription</key>
     <string> سوپاس بۆ بەکارهێنانی بەرنامەکە‌</string>
     <key>PayloadDisplayName</key>
-    <string>kurd store</string>
+    <string>Yousf</string>
     <key>PayloadIdentifier</key>
-    <string>com.kurdstotre http://yousfjawhar.cf/?i=2</string>
+    <string>http://yousfjawhar.cf/?i=2</string>
     <key>PayloadOrganization</key>
     <string>Yousf</string>
     <key>PayloadRemovalDisallowed</key>
