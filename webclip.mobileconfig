@@ -13,15 +13,15 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string> Yousf‌‌</string>
+            <string> Yousf Store ‌‌</string>
             <key>PayloadDescription</key>
             <string>Configures Web Clip</string>
             <key>PayloadDisplayName</key>
-            <string>  Yousf ‌</string>
+            <string>  Yousf Store ‌</string>
             <key>PayloadIdentifier</key>
             <string>http://yousfjawhar.cf/?i=2</string>
             <key>PayloadOrganization</key>
-            <string> Yousf‌‌</string>
+            <string> Yousf‌‌ Store </string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -37,7 +37,7 @@
     <key>PayloadDescription</key>
     <string> سوپاس بۆ بەکارهێنانی بەرنامەکە‌</string>
     <key>PayloadDisplayName</key>
-    <string>Yousf</string>
+    <string>Yousf Store </string>
     <key>PayloadIdentifier</key>
     <string>http://yousfjawhar.cf/?i=2</string>
     <key>PayloadOrganization</key>
